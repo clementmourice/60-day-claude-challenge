@@ -31,7 +31,7 @@ Over the next 60 days, I'm taking on the **Claude AI Challenge** to:
 
 | Day | Date | What I Did |
 |-----|------|------------|
-| 1   | Day 1 | Set up repo, defined goals, started the challenge 🎉 |
+| 1   | Day 1 | Claude Setup & AI Personality Profile 🎉 |
 
 ---
 
